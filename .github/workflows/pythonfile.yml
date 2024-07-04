@@ -20,4 +20,5 @@ jobs:
       with:
        java-version: 11
        name: hello
+       distribution: 'temurin'
        path: .
